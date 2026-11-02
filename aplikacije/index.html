@@ -75,6 +75,8 @@
     .slot.s0 { transform: none; z-index: 3; }
     .slot.s1 { transform: translateX(118%) translateZ(-380px) rotateY(-34deg); opacity: .42; filter: saturate(.6) blur(1px); z-index: 2; cursor: pointer; }
     .slot.s-1 { transform: translateX(-118%) translateZ(-380px) rotateY(34deg); opacity: .42; filter: saturate(.6) blur(1px); z-index: 2; cursor: pointer; }
+    /* Četrta aplikacija čaka zadaj, nevidna, sicer se prekriva s sprednjo. */
+    .slot.s2 { transform: translateZ(-760px); opacity: 0; z-index: 1; pointer-events: none; }
     .slot:not(.s0) .holo { pointer-events: none; }
     .slot:not(.s0):hover { opacity: .65; }
     .cnav { display: flex; justify-content: center; align-items: center; gap: 16px; margin: 6px 0 40px; position: relative; z-index: 4; }
@@ -273,7 +275,7 @@
         sl: "Slikaj, kaj je treba popraviti, in preverjeni mojstri v bližini se javijo s terminom.",
         en: "Snap what needs fixing and verified tradespeople nearby reply with a time.",
         tags_sl: ["Slikaj okvaro", "Preverjeni mojstri", "Dogovor za termin"], tags_en: ["Snap the problem", "Verified pros", "Book a time"],
-        meta_sl: "Samo v Sloveniji", meta_en: "Slovenia only", ios: "", android: "" },
+        meta_sl: "Samo v Sloveniji", meta_en: "Slovenia only", ios: "https://apps.apple.com/si/app/popravko/id6821712043", android: "https://play.google.com/store/apps/details?id=si.fixko.app" },
       { ime: "Fixko", ikona: "../img/fixko-intl.png", vec: "../fixko/", barva: "96,165,250",
         sl: "Mednarodni Popravko: slikaj, kaj je treba popraviti, in mojstri v bližini se javijo s terminom.",
         en: "Snap what needs fixing and local pros reply with a time. Free for customers.",

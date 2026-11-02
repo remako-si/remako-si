@@ -11,7 +11,7 @@
 
 - [Domača stran](https://remako.si/): kdo smo, ocena cene za tvojo aplikacijo, naše aplikacije, pogosta vprašanja in kontakt.
 - [Aplikacije (App Hub)](https://remako.si/aplikacije/): vse naše aplikacije na enem mestu.
-- [Popravko](https://remako.si/popravko/): aplikacija, ki poveže ljudi, ki doma rabijo popravilo, s preverjenimi mojstri v bližini. V razvoju.
+- [Popravko](https://remako.si/popravko/): aplikacija, ki poveže ljudi, ki doma rabijo popravilo, s preverjenimi mojstri v bližini. Na voljo za iPhone (https://apps.apple.com/si/app/popravko/id6821712043) in Android (https://play.google.com/store/apps/details?id=si.fixko.app).
 - [Fixko](https://remako.si/fixko/): mednarodna različica Popravka (vse države razen Slovenije, 10 jezikov). International version of Popravko. V razvoju.
 - [Vodstvo](https://remako.si/vodstvo.html): Urška Repušič, ustanoviteljica in direktorica.
 - [Lunaris](https://remako.si/lunaris.html): investicijska dejavnost skupine REMAKO, v pripravi.
